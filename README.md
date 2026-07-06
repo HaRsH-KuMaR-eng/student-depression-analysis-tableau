@@ -53,7 +53,7 @@ The dashboard enables users to interactively explore the relationships between t
 
 ### 📖 Study Satisfaction Analysis
 - Student satisfaction level comparison
-- Bar chart visualization
+- Bar chart visualisation
 
 ### 😴 Sleep Duration Analysis
 - Sleep duration categories
@@ -61,7 +61,7 @@ The dashboard enables users to interactively explore the relationships between t
 
 ### ⏰ Study Hours Analysis
 - Study hour trends
-- Area chart visualization
+- Area chart visualisation
 - Interactive filtering
 
 ---
@@ -80,7 +80,7 @@ The dashboard enables users to interactively explore the relationships between t
 
 - Data Cleaning
 - Data Transformation
-- SQL Query Optimization
+- SQL Query Optimisation
 - Joins
 - Aggregate Functions
 - Window Functions
@@ -94,74 +94,47 @@ The dashboard enables users to interactively explore the relationships between t
 
 ---
 
-## 📁 Repository Structure
-
-```
-student-depression-analysis-tableau/
-│
-├── Dataset/
-│   └── Student_Depression_Dataset.xlsx
-│
-├── SQL/
-│   └── Student_Depression_SQL.sql
-│
-├── Tableau/
-│   └── Student_Depression_Dashboard.twbx
-│
-├── Images/
-│   ├── dashboard.png
-│   ├── academic_pressure.png
-│   ├── financial_stress.png
-│   ├── study_satisfaction.png
-│   ├── sleep_duration.png
-│   └── study_hours.png
-│
-└── README.md
-```
-
----
-
 # 📸 Dashboard Preview
 
 ## Complete Dashboard
 
-![Dashboard](Images/dashboard.png)
+![Dashboard](https://github.com/HaRsH-KuMaR-eng/student-depression-analysis-tableau/blob/508b8d4e7b391e8d20c332658867f15de6c45e79/image1.jpeg)
 
 ---
 
 ## Study Hours Analysis
 
-![Study Hours](Images/study_hours.png)
+![Study Hours](https://github.com/HaRsH-KuMaR-eng/student-depression-analysis-tableau/blob/508b8d4e7b391e8d20c332658867f15de6c45e79/image3.jpeg)
 
 ---
 
 ## Academic Pressure Analysis
 
-![Academic Pressure](Images/academic_pressure.png)
+![Academic Pressure](https://github.com/HaRsH-KuMaR-eng/student-depression-analysis-tableau/blob/508b8d4e7b391e8d20c332658867f15de6c45e79/image6.jpeg)
 
 ---
 
 ## Financial Stress Analysis
 
-![Financial Stress](Images/financial_stress.png)
+![Financial Stress](https://github.com/HaRsH-KuMaR-eng/student-depression-analysis-tableau/blob/508b8d4e7b391e8d20c332658867f15de6c45e79/image5.jpeg)
 
 ---
 
 ## Study Satisfaction Analysis
 
-![Study Satisfaction](Images/study_satisfaction.png)
+![Study Satisfaction](https://github.com/HaRsH-KuMaR-eng/student-depression-analysis-tableau/blob/508b8d4e7b391e8d20c332658867f15de6c45e79/image4.jpeg)
 
 ---
 
 ## Sleep Duration Analysis
 
-![Sleep Duration](Images/sleep_duration.png)
+![Sleep Duration](https://github.com/HaRsH-KuMaR-eng/student-depression-analysis-tableau/blob/508b8d4e7b391e8d20c332658867f15de6c45e79/image2.jpeg)
 
 ---
 
 ## 🎯 Project Objectives
 
-- Analyze factors affecting student depression.
+- Analyse factors affecting student depression.
 - Build an interactive Tableau dashboard.
 - Perform SQL-based data preprocessing.
 - Generate meaningful insights using EDA.
@@ -183,4 +156,3 @@ B.Tech | Data Analytics Enthusiast
 
 ---
 
-## ⭐ If you found this project helpful, don't forget to Star the repository!
